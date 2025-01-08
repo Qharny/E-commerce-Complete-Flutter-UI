@@ -20,22 +20,22 @@ class _OnBordingScreenState extends State<OnBordingScreen> {
     Onbord(
       image: "assets/Illustration/Illustration-0.png",
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_0.png",
-      title: "Find the item you’ve \nbeen looking for",
+      title: "Find Quality Building \nMaterials Easily",
       description:
-          "Here you’ll see rich varieties of goods, carefully classified for seamless browsing experience.",
+          "Browse a wide range of building materials from trusted vendors. Get everything you need for your construction projects in one place",
     ),
     Onbord(
       image: "assets/Illustration/Illustration-1.png",
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_1.png",
-      title: "Get those shopping \nbags filled",
+      title: "Order with Ease, \nTrack in Real Time",
       description:
-          "Add any item you want to your cart, or save it on your wishlist, so you don’t miss it in your future purchases.",
+          "Place orders effortlessly and track your deliveries live with GPS. Stay updated on every step of your order",
     ),
     Onbord(
       image: "assets/Illustration/Illustration-2.png",
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_2.png",
-      title: "Fast & secure \npayment",
-      description: "There are many payment options available for your ease.",
+      title: "Fast, Secure \n& \nFlexible Payments",
+      description: "Pay with confidence using multiple payment options, including Stripe and PayPal. Your transactions are always safe.",
     ),
     Onbord(
       image: "assets/Illustration/Illustration-3.png",
